@@ -1,3 +1,4 @@
+export { default as AnnotationEntitySchema } from "./AnnotationEntity";
 export { default as BaseEntitySchema } from "./BaseEntity";
 export { default as ErrorSchema } from "./Error";
 export { default as GenericSchema } from "./Generic";
